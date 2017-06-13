@@ -12,6 +12,7 @@ dim=10
 lr=0.005
 epoch=1
 min_count=1
+# add description 
 word_ngrams=3
 bucket=2000000
 thread=4
